@@ -15,7 +15,7 @@ from WechatAPI import WechatAPIClient
 class YuluPlugin(PluginBase):
     """聚合语录插件类"""
     description = "聚合语录插件：发送语录类型名称获取对应语录"
-    author = "AI Assistant"
+    author = "鸿菇"
     version = "1.0.0"
 
     # 语录类型映射字典
